@@ -7,7 +7,7 @@ My favorite data structure is a HashMap due to its versatility and helpfulness i
 
 🤔 I’m looking for help with the realm of cryptography, as even though the concept is fascinating, I feel I would do things wrong.
 
-🔭 I’m currently working on various projects that I find fun such as game development, where I've made my game Objective: Survive and Sudoku Solver!
+🔭 I’m currently working on various projects that I find fun such as game development, where I've made my games Objective: Survive and Sudoku Solver!
 
 Thanks for reading this!
 <!--
