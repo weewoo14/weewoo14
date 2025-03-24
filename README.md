@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-I'm Haoshi (Owen) Wu, a Grade 10 Student at Laurel Heights Secondary School! 
+I'm Haoshi (Owen) Wu, a Grade 11 Student at Laurel Heights Secondary School! 
 
-🌱 I’m currently learning various problem-solving techniques to help me in my journey of competitive programming!
-My favorite data structure is a HashMap due to its versatility and helpfulness in various problems!
+🌱 I’m currently learning front and back-end web development, using HTML, Tailwind CSS, React, Flask, and MongoDB.
 
 🤔 I’m looking for help with the realm of cryptography, as even though the concept is fascinating, I feel I would do things wrong.
 
