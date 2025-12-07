@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Haoshi (Owen) Wu, a Grade 11 Student at Laurel Heights Secondary School! 
+I'm Haoshi (Owen) Wu, a Grade 12 Student at Laurel Heights Secondary School! 
 
 🌱 I’m currently learning front and back-end web development, using HTML, Tailwind CSS, React, Flask, and MongoDB.
 
