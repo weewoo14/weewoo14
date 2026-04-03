@@ -1,14 +1,6 @@
 ### Hi there 👋
 
 I'm Haoshi (Owen) Wu, a Grade 12 Student at LHSS!
-
-🌱 I’m currently learning front and back-end web development, using HTML, Tailwind CSS, React, Flask, and MongoDB.
-
-🤔 I’m looking for help with the realm of cryptography, as even though the concept is fascinating, I feel I would do things wrong.
-
-🔭 I’m currently working on various projects that I find fun such as game development, where I've made my games Objective: Survive and Sudoku Solver!
-
-Thanks for reading this!
 <!--
 **weewoo14/weewoo14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
