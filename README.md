@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Haoshi (Owen) Wu, a Grade 12 Student at LHSS!
+I'm Haoshi (Owen) Wu, a CS student at the University of Waterloo!
 <!--
 **weewoo14/weewoo14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
