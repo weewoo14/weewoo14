@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 I'm Haoshi (Owen) Wu, a CS student at the University of Waterloo!
+
+I'm primarily focused on Backend development! Check out my project called 'StarWeave'!
 <!--
 **weewoo14/weewoo14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
